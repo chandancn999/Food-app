@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../myapp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../JANANI 2"
+		}
+	],
+	"settings": {
+		"git.allowForcePush": true,
+		"git.allowNoVerifyCommit": true,
+		"liveServer.settings.multiRootWorkspaceName": "Janani",
+		"git.ignoreLimitWarning": true
+	}
+}
